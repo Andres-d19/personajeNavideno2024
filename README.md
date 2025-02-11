@@ -24,8 +24,7 @@
 ### Ejercicio 2
 - Código: _Pendiente_
 - [Diagrama](https://drive.google.com/file/d/11UllAULXMIB0DibGFD312UdousM8-KKM/view?usp=sharing)
-- [Video] (https://drive.google.com/file/d/1hT4a795Ks-WrASSxUZx01mOtwwN1vHbI/view?usp=sharing)
-
+- [Video](https://drive.google.com/file/d/1hT4a795Ks-WrASSxUZx01mOtwwN1vHbI/view?usp=sharing)
 ## --------------------------------------------------------------------------------------------------------
 
 ## INDIVIDUAL
