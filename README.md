@@ -32,12 +32,12 @@
 ## CRUD en PostgreSQL
 Video - https://drive.google.com/file/d/1gDoHpGuIXFYNiPX1H6QHF4JT-KzNc13l/view?usp=sharing
 ## Instalaciones y Configuraciones Básicas
-Video - https://drive.google.com/file/d/1fu751p4voMyizGfYy7Pb-0k0HNgKy89H/view?usp=sharing
+[Video](https://drive.google.com/file/d/1hktYJz3D8ymYcUIokksjnPztwMT1WRko/view?usp=sharing)
 ## LED y Botón con Raspberry Pi
-Video - https://drive.google.com/file/d/1gOKPpCjAsIx_9tq60HOSv4Rl4rQUppG2/view?usp=sharing
+Video - no realizado
 ## Conexión MQTT en Node-RED
-Video - https://drive.google.com/file/d/1gCdmRRyGsvqxIDz7jiOsC7aqAe4JjV1j/view?usp=sharing
-https://drive.google.com/file/d/1g-jQD3r9UytJbkyN5JGWOp7ZQ5O0m0iu/view?usp=sharing
+[Video](https://drive.google.com/file/d/1hfVL6E5YIKrd7wNOFwdX-MNRBCE9RcG6/view?usp=sharing) 
+
 
 ## --------------------------------------------------------------------------------------------------------
 
