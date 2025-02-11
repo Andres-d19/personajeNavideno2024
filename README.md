@@ -22,7 +22,7 @@
 - [Video](https://drive.google.com/file/d/1fmfc671ME6qLBjXbHEXiyK3B6szKCpP9/view?usp=sharing)
 
 ### Ejercicio 2
-- Código: _Pendiente_
+- [Código](https://docs.google.com/document/d/1dnmSdky-pFQtUsuvbuZNHuhouhcJZ_m33lc5MG5JqSU/edit?usp=sharing)
 - [Diagrama](https://drive.google.com/file/d/11UllAULXMIB0DibGFD312UdousM8-KKM/view?usp=sharing)
 - [Video](https://drive.google.com/file/d/1hT4a795Ks-WrASSxUZx01mOtwwN1vHbI/view?usp=sharing)
 ## --------------------------------------------------------------------------------------------------------
